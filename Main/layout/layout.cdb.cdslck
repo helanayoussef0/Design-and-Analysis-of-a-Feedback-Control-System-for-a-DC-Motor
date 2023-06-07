@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jflin
+HostName                       legato.ee.ryerson.ca
+ProcessIdentifier              20004
+ProcessCreationTime_UTC        1575040357
+ProcessCreationTime_Readable   Fri Nov 29 10:12:37 2019 EST
+AppIdentifier                  /CMC/tools/cadence/IC5141USR6_lnx86/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXopen upgrade lock
+FilePathUsedToEditLock         /home/student1/jflin/ele734/lab4/Full_Adder/layout/layout.cdb
+TimeEditLocked                 Fri Nov 29 10:13:21 2019 EST

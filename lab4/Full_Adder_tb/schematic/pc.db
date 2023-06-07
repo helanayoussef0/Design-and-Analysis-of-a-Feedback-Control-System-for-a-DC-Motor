@@ -1,0 +1,21 @@
+#
+ahdlLib rand_bit_stream symbol
+InputCin
+InputB
+InputA
+#
+lab4 Full_Adder symbol
+I58
+#
+analogLib cap spectre
+C0
+C1
+#
+analogLib vdc spectre
+V9
+#ISCELL
+analogLib gnd symbol
+I59
+I64
+I40
+I41

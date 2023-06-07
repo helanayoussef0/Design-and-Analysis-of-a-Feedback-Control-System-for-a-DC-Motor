@@ -1,0 +1,24 @@
+#
+lab3 nand2 symbol
+I29
+I30
+I31
+I32
+I33
+I34
+I35
+I36
+I0
+#ISCELL
+basic opin symbol
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN3
+PIN4
+PIN2
+#ISCELL
+basic iopin symbolr
+PIN6
+PIN5
